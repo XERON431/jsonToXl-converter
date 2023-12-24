@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "excel4node": "^1.8.2",
+    "json2xlsx": "^0.1.6",
+    "xlsx": "^0.18.5",
+    "xlsx-populate": "^1.21.0"
+  }
+}
